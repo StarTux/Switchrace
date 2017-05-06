@@ -1,0 +1,9 @@
+name: Switchrace
+description: Switchrace Event Plugin
+author: StarTux
+version: 0.1
+main: com.winthier.switchrace.SwitchracePlugin
+depend: [ ]
+commands:
+  switchrace: {}
+permissions: {}
